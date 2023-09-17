@@ -2,7 +2,9 @@
 
 ## main steps of the function as follows
 
+
 ### 01 Import used libraries
+
 
 ### 02 Used Functions for feature engineering
 
@@ -12,6 +14,8 @@
   4. define the function Get the accuracy and report of the predictions
   5. define the function to select the best K number of features using sklearn SelectBest function which uses f_regression
   6. define the function Add a Principal Component Analysis(PCA) and get additional features by finding principal components
+
+
 
 ### 03 / 05 / 06 Reducing features by feature engineering of Label 01, Label 03, and Label 04
 
@@ -27,6 +31,8 @@
   9. Join the newly created features with the selected features and find the status of the model using a Random forest
   10. Find the status of the model using KNN after joining PCAs
   11. Add KNN predicted data since it has better accuracy to csv file
+
+
 
 ### 04 Reducing features by feature engineering of Label 02
 
